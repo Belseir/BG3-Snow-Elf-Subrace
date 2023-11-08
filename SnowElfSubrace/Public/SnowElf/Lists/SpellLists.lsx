@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="49" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Comment" type="LSString" value="Snow Magic" />
+          <attribute id="Spells" type="LSString" value="Target_Invisibility" />
+          <attribute id="UUID" type="guid" value="26727fb8-6a5c-46a7-b2b3-d6d61efc8ac6" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
