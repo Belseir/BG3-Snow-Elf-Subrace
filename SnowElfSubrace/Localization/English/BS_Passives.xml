@@ -2,4 +2,7 @@
     <content contentuid="hc1e11b34g46dcg46e1ga8f1g03c88f2258b2" version="1">Frostborn</content>
     <content contentuid="h004ac4f5g7d18g4185g9b1ag32c6d6ffdbcc" version="1">Due to their special
         nature, they have innate resistance to damage caused by cold, whether natural or magical.</content>
+    <content contentuid="h5d0fe6b2g86c2g4a80gaf85g3cd2c82bbba2" version="1">Superior Dark Vision</content>
+    <content contentuid="h4ea56244g8a71g4a9aga96fgccb3676e3919" version="1">Your darkvision has a
+        radius of [1].</content>
 </contentList>
