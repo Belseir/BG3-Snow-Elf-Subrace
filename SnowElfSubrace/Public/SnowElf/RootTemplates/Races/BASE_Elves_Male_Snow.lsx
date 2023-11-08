@@ -9,12 +9,22 @@
           <attribute id="Name" type="LSString" value="BASE_Elves_Male_Snow" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="Type" type="FixedString" value="character" />
-          <attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" />
+          <attribute id="ParentTemplateId" type="FixedString"
+            value="858a8c1e-b8fa-429f-9a31-41033042ede3" />
           <attribute id="VisualTemplate" type="FixedString" value="" />
-          <attribute id="Icon" type="FixedString" value="c459f5ac-4446-6e66-4740-1d47a0d8d333-_(Icon_Elf_Male)" />
-          <attribute id="CharacterVisualResourceID" type="FixedString" value="a0ace23f-71c6-44e6-b074-ac60abba5ecf" />
-          <attribute id="Race" type="guid" value="b2658f3a-6020-4499-b66f-5d3a3251ec11" />
+          <attribute id="Icon" type="FixedString"
+            value="c459f5ac-4446-6e66-4740-1d47a0d8d333-_(Icon_Elf_Male)" />
+          <attribute id="CharacterVisualResourceID" type="FixedString"
+            value="a0ace23f-71c6-44e6-b074-ac60abba5ecf" />
+          <attribute id="Race" type="guid" value="b2658f3a-6020-4499-6fb6-3a5d513211ec" />
           <children>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="6b1c3fa0-32d5-45d0-bfe6-17fbee540d6a" />
+                </node>
+              </children>
+            </node>
             <node id="GameMaster" />
             <node id="LocomotionParams" />
           </children>

@@ -9,16 +9,22 @@
           <attribute id="Name" type="LSString" value="Elves_Male_Snow_Player_Strong" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="Type" type="FixedString" value="character" />
-          <attribute id="ParentTemplateId" type="FixedString" value="ae947e94-5447-4a0d-8210-6f83bb1cf7a2" />
-          <attribute id="Icon" type="FixedString" value="c457d519-ddf4-a023-667a-38d2565511e3-_(Icon_Human_Male_Strong)" />
+          <attribute id="ParentTemplateId" type="FixedString"
+            value="ae947e94-5447-4a0d-8210-6f83bb1cf7a2" />
+          <attribute id="Icon" type="FixedString"
+            value="c457d519-ddf4-a023-667a-38d2565511e3-_(Icon_Human_Male_Strong)" />
           <attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
-          <attribute id="CharacterVisualResourceID" type="FixedString" value="98425243-bc0a-4667-9df3-bea64e067ef1" />
+          <attribute id="CharacterVisualResourceID" type="FixedString"
+            value="98425243-bc0a-4667-9df3-bea64e067ef1" />
           <attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
           <children>
             <node id="Tags">
               <children>
                 <node id="Tag">
                   <attribute id="Object" type="guid" value="d3116e58-c55a-4853-00a7-e9be20969773" />
+                </node>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="6b1c3fa0-32d5-45d0-bfe6-17fbee540d6a" />
                 </node>
               </children>
             </node>

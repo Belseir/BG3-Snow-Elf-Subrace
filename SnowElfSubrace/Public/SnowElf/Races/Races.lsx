@@ -17,6 +17,11 @@
           <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />
           <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Elves" />
           <attribute id="UUID" type="guid" value="b2658f3a-6020-4499-b66f-5d3a3251ec11" />
+          <children>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="6b1c3fa0-32d5-45d0-bfe6-17fbee540d6a" />
+            </node>
+          </children>
         </node>
       </children>
     </node>
