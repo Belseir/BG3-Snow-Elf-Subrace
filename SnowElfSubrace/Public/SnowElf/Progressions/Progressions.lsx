@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="49" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="false" />
+          <attribute id="Boosts" type="LSString"
+            value="Ability(Dexterity,2);ProficiencyBonus(Skill,Perception);ProficiencyBonus(Skill,Stealth);ProficiencyBonus(Skill,Survival)" />
+          <attribute id="Level" type="uint8" value="1" />
+          <attribute id="Name" type="LSString" value="SnowElf" />
+          <attribute id="PassivesAdded" type="LSString"
+            value="BS_Passive_Frostborn;BS_Passive_SuperiorDarkvision;Elf_WeaponTraining;FeyAncestry" />
+          <attribute id="ProgressionType" type="uint8" value="2" />
+          <attribute id="TableUUID" type="guid" value="a5a95c50-51d4-4119-abd3-15bd3e956909" />
+          <attribute id="UUID" type="guid" value="621314a1-67f4-41e5-b1ed-eb510f6dacaa" />
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3" />
+          <attribute id="Name" type="LSString" value="SnowElf" />
+          <attribute id="ProgressionType" type="uint8" value="2" />
+          <attribute id="Selectors" type="LSString"
+            value="AddSpells(26727fb8-6a5c-46a7-b2b3-d6d61efc8ac6,,,,AlwaysPrepared)" />
+          <attribute id="TableUUID" type="guid" value="a5a95c50-51d4-4119-abd3-15bd3e956909" />
+          <attribute id="UUID" type="guid" value="b638ad2e-da1d-448d-8ce6-68fffe140ca9" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
