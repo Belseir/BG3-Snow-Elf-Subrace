@@ -15,6 +15,7 @@
           <attribute id="ProgressionTableUUID" type="guid"
             value="a5a95c50-51d4-4119-abd3-15bd3e956909" />
           <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />
+          <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Elves" />
           <attribute id="UUID" type="guid" value="b2658f3a-6020-4499-b66f-5d3a3251ec11" />
         </node>
       </children>
