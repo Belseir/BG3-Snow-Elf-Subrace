@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="51" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="b6c34a74-c2c4-4493-8766-35c58f498569" />
+          <attribute id="Name" type="LSString" value="BASE_Elves_Female_Snow" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" />
+          <attribute id="VisualTemplate" type="FixedString" value="" />
+          <attribute id="Icon" type="FixedString" value="763f7f7d-0e5b-de5a-309c-8f024c714ed6-_(Icon_Elf_Female)" />
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="305ea604-4b45-45b2-949b-601683214a54" />
+          <attribute id="Race" type="guid" value="b2658f3a-6020-4499-b66f-5d3a3251ec11" />
+          <children>
+            <node id="GameMaster" />
+            <node id="LocomotionParams" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
