@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="51" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="e0c0f551-ff19-4f2b-a7ab-2f48e8aea401" />
+          <attribute id="Name" type="LSString" value="Elves_Male_Snow_Player_Strong" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="ParentTemplateId" type="FixedString" value="ae947e94-5447-4a0d-8210-6f83bb1cf7a2" />
+          <attribute id="Icon" type="FixedString" value="c457d519-ddf4-a023-667a-38d2565511e3-_(Icon_Human_Male_Strong)" />
+          <attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="98425243-bc0a-4667-9df3-bea64e067ef1" />
+          <attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
+          <children>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="d3116e58-c55a-4853-00a7-e9be20969773" />
+                </node>
+              </children>
+            </node>
+            <node id="GameMaster" />
+            <node id="LocomotionParams" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
