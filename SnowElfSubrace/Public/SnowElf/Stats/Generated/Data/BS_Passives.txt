@@ -1,0 +1,6 @@
+new entry "BS_Passive_Frostborn"
+type "PassiveData"
+data "DisplayName" "hc1e11b34g46dcg46e1ga8f1g03c88f2258b2"
+data "Description" "h004ac4f5g7d18g4185g9b1ag32c6d6ffdbcc"
+data "Icon" "GenericIcon_DamageType_Cold"
+data "Boosts" "Resistance(Cold, Resistant)"
