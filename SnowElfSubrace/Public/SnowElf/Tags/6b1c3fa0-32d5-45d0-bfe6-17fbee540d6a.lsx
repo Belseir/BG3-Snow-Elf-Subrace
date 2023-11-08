@@ -4,10 +4,8 @@
   <region id="Tags">
     <node id="Tags">
       <attribute id="Description" type="LSString" value="|Snow Elf|" />
-      <attribute id="DisplayDescription" type="TranslatedString"
-        handle="h3e73ee3fg2e19g4c68g9223g31c865050193" version="1" />
-      <attribute id="DisplayName" type="TranslatedString"
-        handle="h93b615e3gf81bg4fadg88eag424018acea25" version="2" />
+      <attribute id="DisplayDescription" type="TranslatedString" handle="h3e73ee3fg2e19g4c68g9223g31c865050193" version="1" />
+      <attribute id="DisplayName" type="TranslatedString" handle="h93b615e3gf81bg4fadg88eag424018acea25" version="2" />
       <attribute id="Icon" type="FixedString" value="" />
       <attribute id="Name" type="FixedString" value="BS_SnowElf" />
       <attribute id="UUID" type="guid" value="fe683b3c-a451-4c7e-afd7-60e08a3cc041" />

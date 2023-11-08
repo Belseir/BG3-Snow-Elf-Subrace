@@ -9,17 +9,13 @@
           <attribute id="Name" type="LSString" value="Elves_Male_Snow_Player" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="Type" type="FixedString" value="character" />
-          <attribute id="ParentTemplateId" type="FixedString"
-            value="eae050d0-2635-4dd7-9682-0bd0b6c72730" />
+          <attribute id="ParentTemplateId" type="FixedString" value="eae050d0-2635-4dd7-9682-0bd0b6c72730" />
           <attribute id="Flag" type="int32" value="0" />
-          <attribute id="Icon" type="FixedString"
-            value="015bd884-82d1-cc15-2a0f-0cb8524028f4-_(Icon_Elf_Male)" />
+          <attribute id="Icon" type="FixedString" value="015bd884-82d1-cc15-2a0f-0cb8524028f4-_(Icon_Elf_Male)" />
           <attribute id="Stats" type="FixedString" value="HeroElfMale" />
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-          <attribute id="CharacterVisualResourceID" type="FixedString"
-            value="e75d497c-c063-422c-b797-b9040c7ef6cc" />
-          <attribute id="PortraitVisualResourceID" type="FixedString"
-            value="b8a96552-dd3b-4079-9fa7-e350b07a92bb" />
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="e75d497c-c063-422c-b797-b9040c7ef6cc" />
+          <attribute id="PortraitVisualResourceID" type="FixedString" value="b8a96552-dd3b-4079-9fa7-e350b07a92bb" />
           <children>
             <node id="SpeakerGroupList">
               <children>

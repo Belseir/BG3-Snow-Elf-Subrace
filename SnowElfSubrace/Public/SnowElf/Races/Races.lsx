@@ -5,15 +5,12 @@
     <node id="root">
       <children>
         <node id="Race">
-          <attribute id="Description" type="TranslatedString"
-            handle="h3e73ee3fg2e19g4c68g9223g31c865050193" version="1" />
-          <attribute id="DisplayName" type="TranslatedString"
-            handle="h93b615e3gf81bg4fadg88eag424018acea25" version="1" />
+          <attribute id="Description" type="TranslatedString" handle="h3e73ee3fg2e19g4c68g9223g31c865050193" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h93b615e3gf81bg4fadg88eag424018acea25" version="1" />
           <attribute id="DisplayTypeUUID" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a" />
           <attribute id="Name" type="FixedString" value="BS_SnowElf" />
           <attribute id="ParentGuid" type="guid" value="6c038dcb-7eb5-431d-84f8-cecfaf1c0c5a" />
-          <attribute id="ProgressionTableUUID" type="guid"
-            value="a5a95c50-51d4-4119-abd3-15bd3e956909" />
+          <attribute id="ProgressionTableUUID" type="guid" value="a5a95c50-51d4-4119-abd3-15bd3e956909" />
           <attribute id="RaceSoundSwitch" type="FixedString" value="Elf" />
           <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Elves" />
           <attribute id="UUID" type="guid" value="b2658f3a-6020-4499-b66f-5d3a3251ec11" />
