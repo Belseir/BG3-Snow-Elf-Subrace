@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="51" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="cf7e8985-763d-4cfd-8a12-a969a2ca1270" />
+          <attribute id="Name" type="LSString" value="Elves_Female_Snow_Player" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="ParentTemplateId" type="FixedString" value="b6c34a74-c2c4-4493-8766-35c58f498569" />
+          <attribute id="Flag" type="int32" value="0" />
+          <attribute id="Icon" type="FixedString" value="d67bd924-3c1f-c33a-5298-feca5bbdc284-_(Icon_Elf_Female)" />
+          <attribute id="Stats" type="FixedString" value="HeroElfFemale" />
+          <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="e7913ee5-37b9-4c84-98a0-7ee1914e5d6a" />
+          <attribute id="PortraitVisualResourceID" type="FixedString" value="42607025-14b2-4dd7-a0e6-12c6b9e608ff" />
+          <children>
+            <node id="SpeakerGroupList">
+              <children>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="02cdc15e-1dc3-5eb4-3cf7-5894f9b49f0b" />
+                </node>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="e0d1ff71-04a8-4340-64ae-849646d883eb" />
+                </node>
+              </children>
+            </node>
+            <node id="GameMaster" />
+            <node id="LocomotionParams" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
