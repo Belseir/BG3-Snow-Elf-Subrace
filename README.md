@@ -32,7 +32,25 @@ The snow elves are the second oldest race on the plane of Alfheim, in the Yggdra
 - Your dexterity stat is increased by 2 (+1 on modifier)
 
 ## Installation
+**Dependencies**: Not sure if it has any dependency. In case there's a problem, please open an issue
 
 This mod can be installed with [BG3ModManager](https://github.com/LaughingLeader/BG3ModManager). It might work with other mod managers or manual installation but I haven't tested them.
 
 <img src="https://camo.githubusercontent.com/59f55b22fc174ac04b4ea7269afa3c486a7e26a42b1c1a9decb84fee265e5e40/68747470733a2f2f692e696d6775722e636f6d2f717464783259712e706e67" alt="Compatible with BG3 Mod Manager" height="75" align="right">
+
+### Mod Manager Installation (BG3ModManager)
+1. Download the latest version of the mod
+2. Open `BG3ModManager`
+3. Drop the downloaded `SnowElfSubrace.zip` on the right side of the mod manager
+4. Drag `SnowElfSubrace` to the left side
+5. Click on `Save Load Order to File` 
+6. Click on `Export Load Order to Game`
+
+### Manual Installation (Windows):
+1. Download the latest version of the mod
+2. Extract `SnowElfSubrace.zip`  on `AppData\Local\Larian Studios\Baldur's Gate 3\Mods`
+
+## Changelog
+* **1.0.0: First Release**
+  *  Adds **Snow Elf** subrace
+  *  Adds **Frostborn** and **Superior Dark Vision** passive skills
